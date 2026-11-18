@@ -1,0 +1,6 @@
+{
+  "name": "Itinéraire QR — Centre Médical Mont Carmel",
+  "description": "Générateur de QR code d'itinéraire GPS Google Maps pour le Centre Médical Mont Carmel et toute adresse Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
